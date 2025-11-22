@@ -1,0 +1,9 @@
+
+datos = {
+    "Eleven": {"Nivel de poder": 95, "Popularidad": 100, "Rareza": 90},
+    "Demogorgon": {"Nivel de poder": 85, "Popularidad": 80, "Rareza": 70},
+    "Vecna": {"Nivel de poder": 99, "Popularidad": 95, "Rareza": 95},
+    "Hopper": {"Nivel de poder": 70, "Popularidad": 85, "Rareza": 60},
+    "Max": {"Nivel de poder": 65, "Popularidad": 90, "Rareza": 75}
+}
+

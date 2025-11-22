@@ -1,0 +1,7 @@
+COLECCIÓN STRANGER THINGS
+Eleven,2016,Stranger Things (Netflix),100
+Mike Wheeler,2016,Stranger Things (Netflix),95
+Dustin Henderson,2016,Stranger Things (Netflix),97
+Lucas Sinclair,2016,Stranger Things (Netflix),85
+Max Mayfield,2017,Stranger Things (Netflix),88Will,2020,Stranger Things (Netflix),8
+Will,2016,Stranger Things (Netflix),8
